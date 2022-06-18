@@ -1,0 +1,1 @@
+web: gunicorn treatments1972.wsgi
